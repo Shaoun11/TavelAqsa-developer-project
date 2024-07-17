@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    background-color: #FFF;
+    font-family: var(--font-poppins);
+   }
+
+ /*
+This file is made by DevGenius (2024)
+Project Name:TravelAqsa landing page
+*/
